@@ -12,7 +12,9 @@ Note, this is best used when the lowest brightness setting has been selected on 
 When you've finished with the dim screen, return the setting to 1.
 
 ## Limitations
-Numbers higher than one will be accepted. I don't kow the consequences of this.
+Numbers higher than one will be accepted. I don't know the consequences of this.
 Only works with one connected screen.
 
 This is my first bash script so it won't be perfect.
+
+MIT License.
