@@ -18,3 +18,7 @@ Only works with one connected screen.
 This is my first bash script so it won't be perfect.
 
 MIT License.
+
+# Multi Monitors
+Script improved and can be found here:
+https://gist.github.com/hotswapster/ac1d071096b3801049d06b53602c5eb2#file-metaboxbrightness-txt
